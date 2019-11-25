@@ -20,3 +20,6 @@
     <p>Nesse projeto é possível registrar Livros e materiais didáticos de uma biblioteca e realizar operações como empréstimos e devoluções destes. </p>
   </li>
 </ul>
+
+Login: livreleitura
+Senha: bibGW2015.2
